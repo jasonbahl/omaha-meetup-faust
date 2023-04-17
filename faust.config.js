@@ -15,7 +15,7 @@ export default setConfig({
   templates,
   experimentalPlugins: [
       // new GetRequests(),
-      new PersistedQueriesPlugin(),
+      // new PersistedQueriesPlugin(),
   ],
   possibleTypes,
 });
